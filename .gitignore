@@ -1,0 +1,5 @@
+
+.DS_Store
+archive.zip
+env/*
+target/pylist.json
